@@ -5,7 +5,7 @@
 - 💞️ I´m looking to learn from web projects and their developers, I´d like to integrate techniques into my projects and involving best practices in the development of web applications and services.
 
 
-- 📫 You can contact me via telegram: @f3rnl
+- 📫 You can contact me via Linkedin: https://www.linkedin.com/in/fernandoramirezl/
 
 - The world of art is renewed and turns to new digital environments, such as the web, design and audiovisual production.
 
