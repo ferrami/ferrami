@@ -8,7 +8,7 @@
 
 📬 You can connect with me on LinkedIn: https://www.linkedin.com/in/fernandoramirezl/
 
-🌟 I'm thrilled to be part of the digital revolution in art, especially in web development, design, and audiovisual production. Let's build the future together!
+🌟 I'm thrilled to be part of the digital revolution in art, with a special focus on front-end web development and design.. Let's build the future together!
 
 ```javascript
 const myProfile = {
