@@ -4,7 +4,7 @@
 
 💡 I'm always learning by working on web projects. I'm getting really good at using MERN Stack, Python Flask, React, JavaScript, and Node.js. I'm all about using these skills to make awesome web apps and services.
 
-🌱 I’m currently learning **MERN Stack**
+🌱 I’m currently working in the creation of a **geek-centric social fandom blog** 
 
 📬 You can connect with me on LinkedIn: https://www.linkedin.com/in/fernandoramirezl/
 
