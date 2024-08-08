@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack Software Developer</h1>
+<h1 align="center">Software Developer</h1>
 
 
 ```javascript
